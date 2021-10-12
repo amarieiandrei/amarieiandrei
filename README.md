@@ -1,12 +1,4 @@
-## Hi 👋
-
-I am currently learning ... but too close to take everything.
-
-I'm working right now.
-
-
-
-
+### I'm working right now.
 
 > Copyright @ 2021 GitHub Inc. All Rights Reserved.
 
