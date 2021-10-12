@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi 👋
+
+I am currently learning ... but too close to take everything.
+
+I'm working right now.
+
+
+
+
+
+> Copyright @ 2021 GitHub Inc. All Rights Reserved.
 
 <!--
 **amarieiandrei/amarieiandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
