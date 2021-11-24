@@ -1,2 +1,4 @@
 
-<h1 style="margin-left: 500px"> Hello 👋, I'm Andrei Amariei </h1>
+<div style="margin-left: 500px">
+  <h1> Hello 👋, I'm Andrei Amariei </h1>
+</div>
