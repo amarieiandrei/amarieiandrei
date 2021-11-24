@@ -1,6 +1,2 @@
-### Andrei Amariei
 
-> Copyright @ 2021 GitHub Inc. All Rights Reserved.
-
-<!--
-**amarieiandrei/amarieiandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style> Hello 👋, I'm Andrei Amariei </h1>
