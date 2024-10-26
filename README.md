@@ -5,6 +5,6 @@
 
 <pre> Being involved in projects focusing on e-discovery, translations, and analytics. Deliver new functionalities and maintain existing ones around pre-review analytics processing to one of the leading translations technology companies. </pre>
 
-<pre> Master's degree student of databases at Babeș-Bolyai University from Cluj-Napoca </pre>
+<pre> Former student of Babeș-Bolyai University and currently involved in a role that provides opportunities for high levels of responsibility. </pre>
 
 <pre> Highly motivated to learn and experience new things. </pre>
